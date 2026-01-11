@@ -8,7 +8,7 @@ Submitted at the  31st Annual ACM Conference on Innovation and Technology in Com
 
 ### Python Tutor
 
-
+[![Demo video](preview.png)](tutordemo.mp4)
 
 
 ### Evaluation

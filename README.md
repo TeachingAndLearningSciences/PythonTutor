@@ -3,8 +3,12 @@
 ## __Design and Deployment of a Course-Aware AI Tutor in an Introductory Programming Course__
 
 
-<br>
-Submitted at the  31st Annual ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE).
+```
+Design and Deployment of a Course-Aware AI Tutor in an Introductory Programming Course
+Iris Groher, Patrick Heissenberger, and Michael Vierhauser
+Accepted for publication at the 18th International Conference on Computer Supported Education (CSEDU 2026)
+```
+
 
 ### Python Tutor
 
